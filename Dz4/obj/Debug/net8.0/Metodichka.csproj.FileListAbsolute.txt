@@ -1,0 +1,14 @@
+C:\Users\Сергей_2\source\repos\Dz4\bin\Debug\net8.0\Metodichka.exe
+C:\Users\Сергей_2\source\repos\Dz4\bin\Debug\net8.0\Metodichka.deps.json
+C:\Users\Сергей_2\source\repos\Dz4\bin\Debug\net8.0\Metodichka.runtimeconfig.json
+C:\Users\Сергей_2\source\repos\Dz4\bin\Debug\net8.0\Metodichka.dll
+C:\Users\Сергей_2\source\repos\Dz4\bin\Debug\net8.0\Metodichka.pdb
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.AssemblyInfoInputs.cache
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.AssemblyInfo.cs
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.csproj.CoreCompileInputs.cache
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.dll
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\refint\Metodichka.dll
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.pdb
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\Metodichka.genruntimeconfig.cache
+C:\Users\Сергей_2\source\repos\Dz4\obj\Debug\net8.0\ref\Metodichka.dll
